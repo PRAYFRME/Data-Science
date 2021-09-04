@@ -7,3 +7,7 @@ There are some recommended books available for Data Science Enthusiast. Feel fre
 
 ## Books that are more than 25MB will be available here. Don't forget to check this out. 
 https://app.box.com/s/zpf3vjawjx8n6z8z37peyfp4g8kjwmm1
+
+- Fundamentals of Data Visualization- A Primer on Making Informative and Compelling Figures ( PDFDrive )
+- Introduction to Data Science
+- Introduction to Linear Algebra 4th edition

@@ -1,7 +1,7 @@
 <img src="https://github.com/PRAYFRME/PRAYFRME/blob/main/DataScience.png?raw=true" alt="DataScience">
 
 ## Data Science Books, Codes, Files and More
-There are some recommended books available for Data Science Enthusiast. Feel free tpo add. 💝
+There are some recommended books available for Data Science Enthusiast. Feel free to add. 💝
 
 
 

@@ -1,4 +1,4 @@
-<img src="https://github.com/PRAYFRME/PRAYFRME/blob/main/DataScience.png?raw=true" alt="DataScience">
+<img src="https://github.com/PRAYFRME/Data-Science/blob/main/DataScience.png?raw=true" alt="DataScience">
 
 ## Data Science Books, Codes, Files and More [![wakatime](https://wakatime.com/badge/github/PRAYFRME/Data-Science.svg)](https://wakatime.com/badge/github/PRAYFRME/Data-Science)
 There are some recommended books available for Data Science Enthusiast. Feel free to add. 💝

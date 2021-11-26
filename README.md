@@ -12,7 +12,7 @@ https://app.box.com/s/zpf3vjawjx8n6z8z37peyfp4g8kjwmm1
 - Introduction to Data Science
 - Introduction to Linear Algebra 4th edition
 
-## My Course.
+## My Course: CSE303 Statistics for Data Science 📈📊📉
 https://github.com/PRAYFRME/CSE303
 
 

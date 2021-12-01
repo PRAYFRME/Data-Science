@@ -16,7 +16,7 @@ https://app.box.com/s/zpf3vjawjx8n6z8z37peyfp4g8kjwmm1
 https://github.com/PRAYFRME/CSE303
 
 
-## Take a look 👀🤩👀
+## Have a look 👀🤩👀
 https://github.com/jakevdp/PythonDataScienceHandbook
 
 https://github.com/PRAYFRME/CSE475
